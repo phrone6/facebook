@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FACEBOOK</string>
+    <string name="reg">FACEBOOK</string>
+    <string name="fname">full name</string>
+    <string name="lname">LAST NAME</string>
+    <string name="email">email</string>
+    <string name="phone">phone number</string>
+    <string name="pass">password</string>
+    <string name="register">REGISTER</string>
+</resources>
+
+
