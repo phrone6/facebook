@@ -48,10 +48,12 @@ public void valdate(){
     }
     else if (Pass.isEmpty()){
         pass.setError("invalid password");
-    }else {
+    }
+    else {
         if (!Email.contains("@")){
 
-        }else {
+        }
+        else {
             Toast.makeText(this,"login successful",Toast.LENGTH_LONG).show();
         }
     }

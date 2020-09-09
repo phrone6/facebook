@@ -20,7 +20,8 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/face" />
+        android:src="@drawable/face"
+        android:contentDescription="TODO" />
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -90,7 +91,7 @@
         android:layout_height="wrap_content"
         android:text="register"
         android:textSize="30dp"
-        android:layout_marginLeft="45dp"
+        android:layout_marginStart="45dp"
         android:layout_marginTop="20dp"
         android:background="#646064"
         android:textColor="#FFFFFF"
